@@ -6,7 +6,6 @@ YOUR NAME(s) HERE
 Main file for polling place simulation
 '''
 
-import sys
 import random
 import queue
 import click
